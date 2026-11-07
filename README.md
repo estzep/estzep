@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/header-ascii.svg" width="760" alt="Diego Zepeda" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-abstract-dark.svg" />
+    <img src="assets/header-abstract-light.svg" width="760" alt="Diego Zepeda" />
+  </picture>
 </p>
 
 Full Stack Software Engineer in Mexico City with 6 years shipping production web applications, from architecture through deployment.  

@@ -87,10 +87,10 @@
   </style>
   <rect width="760" height="236" rx="22" fill="url(#bg)"/>
   <g filter="url(#soft)">
-    <circle class="blob b1" cx="150" cy="48" r="78" fill="#5eead4" opacity="0.55"/>
-    <circle class="blob b2" cx="600" cy="176" r="96" fill="#93c5fd" opacity="0.50"/>
-    <circle class="blob b3" cx="390" cy="28" r="54" fill="#fde68a" opacity="0.40"/>
-    <circle class="blob b4" cx="210" cy="196" r="64" fill="#c4b5fd" opacity="0.38"/>
+    <circle class="blob b1" cx="150" cy="48" r="78" fill="#3E884F" opacity="0.50"/>
+    <circle class="blob b2" cx="600" cy="176" r="96" fill="#1BE453" opacity="0.42"/>
+    <circle class="blob b3" cx="390" cy="28" r="54" fill="#00FF1A" opacity="0.38"/>
+    <circle class="blob b4" cx="210" cy="196" r="64" fill="#9BFE79" opacity="0.62"/>
   </g>
   <text x="380" y="86" text-anchor="middle" fill="#0f172a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700">Diego Zepeda</text>
   <clipPath id="clip-a">
@@ -101,8 +101,8 @@
   </clipPath>
   <text x="186.8" y="142" clip-path="url(#clip-a)" fill="#1e293b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="23" textLength="386.41" lengthAdjust="spacingAndGlyphs">Full Stack Software Engineer</text>
   <text x="186.8" y="184" clip-path="url(#clip-b)" fill="#1e293b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="23" textLength="345.02" lengthAdjust="spacingAndGlyphs">Cofounder of Qarta Online</text>
-  <rect class="caret caret-a" x="186.8" y="122" width="2" height="22" fill="#0f766e" opacity="0"/>
+  <rect class="caret caret-a" x="186.8" y="122" width="2" height="22" fill="#3E884F" opacity="0"/>
   <g class="caret-b-gate" opacity="0">
-    <rect class="caret caret-b" x="186.8" y="164" width="2" height="22" fill="#0f766e" opacity="0"/>
+    <rect class="caret caret-b" x="186.8" y="164" width="2" height="22" fill="#3E884F" opacity="0"/>
   </g>
 </svg>
