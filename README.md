@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-    <img src="assets/header-light.svg" width="680" alt="Diego Zepeda. Full Stack Software Engineer. Cofounder of Qarta Online." />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-abstract-dark.svg" />
+    <img src="assets/header-abstract-light.svg" width="760" alt="Diego Zepeda. Full Stack Software Engineer. Cofounder of Qarta Online." />
   </picture>
 </p>
 
@@ -27,8 +27,8 @@ Open to Full Stack roles, remote or anywhere.
 
 ### Featured
 
-**[Qarta Online](https://www.qartaonline.com)**, Cofounder and Lead Engineer. Restaurant menu websites for 40+ restaurants across 7 Mexican states and Los Angeles.
+**[Qarta Online](https://www.qartaonline.com)** - Cofounder and Lead Engineer. Restaurant menu websites for 40+ restaurants across 7 Mexican states and Los Angeles.
 
-**[Mexico Tech Week](https://mexicotechweek.mx)**, AI Full Stack Engineer, volunteer. Migrated the site from Webflow to Next.js.
+**[Mexico Tech Week](https://mexicotechweek.mx)** - AI Full Stack Engineer, volunteer. Migrated the site from Webflow to Next.js.
 
 Previously Software Developer 2 at Oracle (Oracle Utilities CC&B and C2M), Frontend Developer at Puffer Finance, and Full Stack Developer at GPT4Sales.

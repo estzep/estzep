@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+  <title id="title">Diego Zepeda</title>
+  <desc id="desc">DIEGO ZEPEDA. Full Stack Software Engineer. Cofounder of Qarta Online.</desc>
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="28%" r="46%">
+      <stop offset="0" stop-color="#115e59" stop-opacity="0.9"/>
+      <stop offset="0.62" stop-color="#0b1c1a" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#071018" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+  </defs>
+  <style>
+    .glow-blob {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: pulse 14s ease-in-out infinite alternate;
+    }
+    @keyframes pulse {
+      from { transform: translate(0px, 0px); }
+      to { transform: translate(16px, 6px); }
+    }
+    .ascii {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 18px;
+      fill: #d1fae5;
+      letter-spacing: 0;
+    }
+    .reveal-a { animation: type-a 12s infinite; }
+    .reveal-b { animation: type-b 12s infinite; }
+    .caret-a, .caret-b {
+      transform-box: fill-box;
+      transform-origin: left center;
+    }
+    .caret-a { animation: move-a 12s infinite, blink 1s step-end infinite; }
+    .caret-b-gate { animation: gate-b 12s linear infinite; }
+    .caret-b { animation: move-b 12s infinite, blink 1s step-end infinite; }
+    @keyframes type-a {
+      0% { width: 0; animation-timing-function: steps(28, end); }
+      34% { width: 386.41px; animation-timing-function: linear; }
+      90% { width: 386.41px; animation-timing-function: linear; }
+      100% { width: 0; }
+    }
+    @keyframes type-b {
+      0%, 38% { width: 0; animation-timing-function: steps(25, end); }
+      68% { width: 345.02px; animation-timing-function: linear; }
+      90% { width: 345.02px; animation-timing-function: linear; }
+      100% { width: 0; }
+    }
+    @keyframes move-a {
+      0% { transform: translateX(0); animation-timing-function: steps(28, end); }
+      34% { transform: translateX(386.41px); animation-timing-function: linear; }
+      90% { transform: translateX(386.41px); animation-timing-function: linear; }
+      100% { transform: translateX(0); }
+    }
+    @keyframes move-b {
+      0%, 38% { transform: translateX(0); animation-timing-function: steps(25, end); }
+      68% { transform: translateX(345.02px); animation-timing-function: linear; }
+      90% { transform: translateX(345.02px); animation-timing-function: linear; }
+      100% { transform: translateX(0); }
+    }
+    @keyframes gate-b {
+      0%, 37% { opacity: 0; }
+      38%, 90% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    @keyframes blink {
+      0%, 45% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .glow-blob, .reveal-a, .reveal-b, .caret-a, .caret-b, .caret-b-gate { animation: none; }
+      .caret-a, .caret-b, .caret-b-gate { opacity: 0; }
+    }
+  </style>
+  <rect width="960" height="280" rx="18" fill="#071018"/>
+  <rect width="960" height="280" rx="18" fill="url(#glow)"/>
+  <ellipse class="glow-blob" cx="480" cy="78" rx="300" ry="58" fill="#14b8a6" opacity="0.14" filter="url(#soft)"/>
+  <text class="ascii" x="480" y="36" text-anchor="middle">
+    <tspan x="480" dy="0">######  ### ######  ######  ######     ###### ###### ######  ###### ######    ####  </tspan>
+    <tspan x="480" dy="18">##   ##  #  ##     ##      ##    ##        ## ##     ##   ## ##     ##   ##  ##  ## </tspan>
+    <tspan x="480" dy="18">##   ##  #  ##     ##      ##    ##       ##  ##     ##   ## ##     ##   ## ##    ##</tspan>
+    <tspan x="480" dy="18">##   ##  #  #####  ##  ### ##    ##      ##   #####  ######  #####  ##   ## ########</tspan>
+    <tspan x="480" dy="18">##   ##  #  ##     ##   ## ##    ##     ##    ##     ##      ##     ##   ## ##    ##</tspan>
+    <tspan x="480" dy="18">##   ##  #  ##     ##   ## ##    ##    ##     ##     ##      ##     ##   ## ##    ##</tspan>
+    <tspan x="480" dy="18">######  ### ######  ######  ######     ###### ###### ##      ###### ######  ##    ##</tspan>
+  </text>
+  <clipPath id="clip-a">
+    <rect class="reveal-a" x="286.8" y="178" width="386.41" height="34"/>
+  </clipPath>
+  <clipPath id="clip-b">
+    <rect class="reveal-b" x="286.8" y="216" width="345.02" height="34"/>
+  </clipPath>
+  <text x="286.8" y="206" clip-path="url(#clip-a)" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="23" textLength="386.41" lengthAdjust="spacingAndGlyphs">Full Stack Software Engineer</text>
+  <text x="286.8" y="244" clip-path="url(#clip-b)" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="23" textLength="345.02" lengthAdjust="spacingAndGlyphs">Cofounder of Qarta Online</text>
+  <rect class="caret caret-a" x="286.8" y="186" width="2" height="22" fill="#5eead4" opacity="0"/>
+  <g class="caret-b-gate" opacity="0">
+    <rect class="caret caret-b" x="286.8" y="224" width="2" height="22" fill="#5eead4" opacity="0"/>
+  </g>
+</svg>
