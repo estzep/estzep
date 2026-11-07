@@ -9,34 +9,26 @@ Full Stack Software Engineer in Mexico City with 6 years shipping production web
 Open to Full Stack roles, remote or anywhere.
 
 <p align="center">
-  <a href="https://diegozepeda.com"><img alt="diegozepeda.com" src="https://img.shields.io/badge/diegozepeda.com-111827?style=flat-square&amp;logo=link&amp;logoColor=white" /></a>
-  <a href="https://linkedin.com/in/estzepeda"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
-  <a href="mailto:estzepeda@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-0F766E?style=flat-square&amp;logo=microsoftoutlook&amp;logoColor=white" /></a>
-  <a href="https://x.com/ilestzepeda"><img alt="X" src="https://img.shields.io/badge/X-111827?style=flat-square&amp;logo=x&amp;logoColor=white" /></a>
+  <a href="https://diegozepeda.com"><img alt="diegozepeda.com" src="https://img.shields.io/badge/diegozepeda.com-111827?style=flat-square&logo=link&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/estzepeda"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:estzepeda@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-0F766E?style=flat-square&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="https://x.com/ilestzepeda"><img alt="X" src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
 ### Featured
 
-**[Qarta Online](https://www.qartaonline.com)** — Cofounder and Lead Engineer. Restaurant menu websites for 40+ restaurants across 7 Mexican states and Los Angeles.
+**[Qarta Online](https://www.qartaonline.com)**, Cofounder and Lead Engineer. Restaurant menu websites for 40+ restaurants across 7 Mexican states and Los Angeles.
 
-**[Mexico Tech Week](https://mexicotechweek.mx)** — AI Full Stack Engineer, volunteer. Migrated the site from Webflow to Next.js.
-
-**Moonbridge** — 1st place, Polkadot North America 2022.
-
-**[FlowBetPalace](https://github.com/flowBetPalace/app)** — 3rd place, Flow Hackathon Season 2 (2023). Next.js frontend of a decentralized sports betting platform.
-
-**[Eezywards](https://github.com/eezywards/user-app)** — ETH Mexico 2022, Worldcoin Best Use and Polygon Best Refi Project. React app of a crypto QR point of sale with loyalty coupons.
-
-**[Freelensers](https://github.com/freelensers/freelensers)** — ETH Bogota 2022, Web3Auth Best Use Case. Next.js and TypeScript freelance marketplace on Lens.
+**[Mexico Tech Week](https://mexicotechweek.mx)**, AI Full Stack Engineer, volunteer. Migrated the site from Webflow to Next.js.
 
 Previously Software Developer 2 at Oracle (Oracle Utilities CC&B and C2M), Frontend Developer at Puffer Finance, and Full Stack Developer at GPT4Sales.
