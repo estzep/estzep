@@ -2,9 +2,15 @@
   <title id="title">Diego Zepeda</title>
   <desc id="desc">DIEGO ZEPEDA. Full Stack Software Engineer. Cofounder of Qarta Online.</desc>
   <defs>
+    <linearGradient id="name" x1="0" y1="12" x2="0" y2="108" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9BFE79"/>
+      <stop offset="0.34" stop-color="#00FF1A"/>
+      <stop offset="0.68" stop-color="#1BE453"/>
+      <stop offset="1" stop-color="#3E884F"/>
+    </linearGradient>
     <radialGradient id="glow" cx="50%" cy="32%" r="55%">
-      <stop offset="0" stop-color="#115e59" stop-opacity="0.85"/>
-      <stop offset="0.55" stop-color="#0b1c1a" stop-opacity="0.2"/>
+      <stop offset="0" stop-color="#00FF1A" stop-opacity="0.34"/>
+      <stop offset="0.42" stop-color="#1BE453" stop-opacity="0.16"/>
       <stop offset="1" stop-color="#071018" stop-opacity="0"/>
     </radialGradient>
     <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
@@ -24,7 +30,7 @@
     .ascii {
       font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
       font-size: 14px;
-      fill: #d1fae5;
+      fill: url(#name);
       white-space: pre;
     }
     .reveal-a { animation: type-a 12s infinite; }
@@ -76,7 +82,7 @@
   </style>
   <rect width="980" height="211" rx="18" fill="#071018"/>
   <rect width="980" height="211" rx="18" fill="url(#glow)"/>
-  <ellipse class="glow-blob" cx="490" cy="58" rx="320" ry="46" fill="#14b8a6" opacity="0.16" filter="url(#soft)"/>
+  <ellipse class="glow-blob" cx="490" cy="58" rx="320" ry="46" fill="#1BE453" opacity="0.28" filter="url(#soft)"/>
   <text class="ascii" x="116.2" y="28" xml:space="preserve">██████╗ ██╗███████╗ ██████╗  ██████╗     ███████╗███████╗██████╗ ███████╗██████╗  █████╗ </text>
   <text class="ascii" x="116.2" y="43" xml:space="preserve">██╔══██╗██║██╔════╝██╔════╝ ██╔═══██╗    ╚══███╔╝██╔════╝██╔══██╗██╔════╝██╔══██╗██╔══██╗</text>
   <text class="ascii" x="116.2" y="58" xml:space="preserve">██║  ██║██║█████╗  ██║  ███╗██║   ██║      ███╔╝ █████╗  ██████╔╝█████╗  ██║  ██║███████║</text>
@@ -89,10 +95,10 @@
   <clipPath id="clip-b">
     <rect class="reveal-b" x="296.8" y="155" width="345.02" height="34"/>
   </clipPath>
-  <text x="296.8" y="145" clip-path="url(#clip-a)" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="23" textLength="386.41" lengthAdjust="spacingAndGlyphs">Full Stack Software Engineer</text>
-  <text x="296.8" y="183" clip-path="url(#clip-b)" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="23" textLength="345.02" lengthAdjust="spacingAndGlyphs">Cofounder of Qarta Online</text>
-  <rect class="caret caret-a" x="296.8" y="125" width="2" height="22" fill="#5eead4" opacity="0"/>
+  <text x="296.8" y="145" clip-path="url(#clip-a)" fill="#9BFE79" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="23" textLength="386.41" lengthAdjust="spacingAndGlyphs">Full Stack Software Engineer</text>
+  <text x="296.8" y="183" clip-path="url(#clip-b)" fill="#9BFE79" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="23" textLength="345.02" lengthAdjust="spacingAndGlyphs">Cofounder of Qarta Online</text>
+  <rect class="caret caret-a" x="296.8" y="125" width="2" height="22" fill="#00FF1A" opacity="0"/>
   <g class="caret-b-gate" opacity="0">
-    <rect class="caret caret-b" x="296.8" y="163" width="2" height="22" fill="#5eead4" opacity="0"/>
+    <rect class="caret caret-b" x="296.8" y="163" width="2" height="22" fill="#00FF1A" opacity="0"/>
   </g>
 </svg>
