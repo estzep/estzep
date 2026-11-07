@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="980" height="211" viewBox="0 0 980 211" role="img" aria-labelledby="title desc">
   <title id="title">Diego Zepeda</title>
   <desc id="desc">DIEGO ZEPEDA. Full Stack Software Engineer. Cofounder of Qarta Online.</desc>
   <defs>
-    <radialGradient id="glow" cx="50%" cy="28%" r="46%">
-      <stop offset="0" stop-color="#115e59" stop-opacity="0.9"/>
-      <stop offset="0.62" stop-color="#0b1c1a" stop-opacity="0.25"/>
+    <radialGradient id="glow" cx="50%" cy="32%" r="55%">
+      <stop offset="0" stop-color="#115e59" stop-opacity="0.85"/>
+      <stop offset="0.55" stop-color="#0b1c1a" stop-opacity="0.2"/>
       <stop offset="1" stop-color="#071018" stop-opacity="0"/>
     </radialGradient>
     <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="16"/>
+      <feGaussianBlur stdDeviation="18"/>
     </filter>
   </defs>
   <style>
@@ -19,13 +19,13 @@
     }
     @keyframes pulse {
       from { transform: translate(0px, 0px); }
-      to { transform: translate(16px, 6px); }
+      to { transform: translate(18px, 6px); }
     }
     .ascii {
-      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
-      font-size: 18px;
+      font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 14px;
       fill: #d1fae5;
-      letter-spacing: 0;
+      white-space: pre;
     }
     .reveal-a { animation: type-a 12s infinite; }
     .reveal-b { animation: type-b 12s infinite; }
@@ -74,28 +74,25 @@
       .caret-a, .caret-b, .caret-b-gate { opacity: 0; }
     }
   </style>
-  <rect width="960" height="280" rx="18" fill="#071018"/>
-  <rect width="960" height="280" rx="18" fill="url(#glow)"/>
-  <ellipse class="glow-blob" cx="480" cy="78" rx="300" ry="58" fill="#14b8a6" opacity="0.14" filter="url(#soft)"/>
-  <text class="ascii" x="480" y="36" text-anchor="middle">
-    <tspan x="480" dy="0">######  ### ######  ######  ######     ###### ###### ######  ###### ######    ####  </tspan>
-    <tspan x="480" dy="18">##   ##  #  ##     ##      ##    ##        ## ##     ##   ## ##     ##   ##  ##  ## </tspan>
-    <tspan x="480" dy="18">##   ##  #  ##     ##      ##    ##       ##  ##     ##   ## ##     ##   ## ##    ##</tspan>
-    <tspan x="480" dy="18">##   ##  #  #####  ##  ### ##    ##      ##   #####  ######  #####  ##   ## ########</tspan>
-    <tspan x="480" dy="18">##   ##  #  ##     ##   ## ##    ##     ##    ##     ##      ##     ##   ## ##    ##</tspan>
-    <tspan x="480" dy="18">##   ##  #  ##     ##   ## ##    ##    ##     ##     ##      ##     ##   ## ##    ##</tspan>
-    <tspan x="480" dy="18">######  ### ######  ######  ######     ###### ###### ##      ###### ######  ##    ##</tspan>
-  </text>
+  <rect width="980" height="211" rx="18" fill="#071018"/>
+  <rect width="980" height="211" rx="18" fill="url(#glow)"/>
+  <ellipse class="glow-blob" cx="490" cy="58" rx="320" ry="46" fill="#14b8a6" opacity="0.16" filter="url(#soft)"/>
+  <text class="ascii" x="116.2" y="28" xml:space="preserve">██████╗ ██╗███████╗ ██████╗  ██████╗     ███████╗███████╗██████╗ ███████╗██████╗  █████╗ </text>
+  <text class="ascii" x="116.2" y="43" xml:space="preserve">██╔══██╗██║██╔════╝██╔════╝ ██╔═══██╗    ╚══███╔╝██╔════╝██╔══██╗██╔════╝██╔══██╗██╔══██╗</text>
+  <text class="ascii" x="116.2" y="58" xml:space="preserve">██║  ██║██║█████╗  ██║  ███╗██║   ██║      ███╔╝ █████╗  ██████╔╝█████╗  ██║  ██║███████║</text>
+  <text class="ascii" x="116.2" y="73" xml:space="preserve">██║  ██║██║██╔══╝  ██║   ██║██║   ██║     ███╔╝  ██╔══╝  ██╔═══╝ ██╔══╝  ██║  ██║██╔══██║</text>
+  <text class="ascii" x="116.2" y="88" xml:space="preserve">██████╔╝██║███████╗╚██████╔╝╚██████╔╝    ███████╗███████╗██║     ███████╗██████╔╝██║  ██║</text>
+  <text class="ascii" x="116.2" y="103" xml:space="preserve">╚═════╝ ╚═╝╚══════╝ ╚═════╝  ╚═════╝     ╚══════╝╚══════╝╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝</text>
   <clipPath id="clip-a">
-    <rect class="reveal-a" x="286.8" y="178" width="386.41" height="34"/>
+    <rect class="reveal-a" x="296.8" y="117" width="386.41" height="34"/>
   </clipPath>
   <clipPath id="clip-b">
-    <rect class="reveal-b" x="286.8" y="216" width="345.02" height="34"/>
+    <rect class="reveal-b" x="296.8" y="155" width="345.02" height="34"/>
   </clipPath>
-  <text x="286.8" y="206" clip-path="url(#clip-a)" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="23" textLength="386.41" lengthAdjust="spacingAndGlyphs">Full Stack Software Engineer</text>
-  <text x="286.8" y="244" clip-path="url(#clip-b)" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="23" textLength="345.02" lengthAdjust="spacingAndGlyphs">Cofounder of Qarta Online</text>
-  <rect class="caret caret-a" x="286.8" y="186" width="2" height="22" fill="#5eead4" opacity="0"/>
+  <text x="296.8" y="145" clip-path="url(#clip-a)" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="23" textLength="386.41" lengthAdjust="spacingAndGlyphs">Full Stack Software Engineer</text>
+  <text x="296.8" y="183" clip-path="url(#clip-b)" fill="#d1fae5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="23" textLength="345.02" lengthAdjust="spacingAndGlyphs">Cofounder of Qarta Online</text>
+  <rect class="caret caret-a" x="296.8" y="125" width="2" height="22" fill="#5eead4" opacity="0"/>
   <g class="caret-b-gate" opacity="0">
-    <rect class="caret caret-b" x="286.8" y="224" width="2" height="22" fill="#5eead4" opacity="0"/>
+    <rect class="caret caret-b" x="296.8" y="163" width="2" height="22" fill="#5eead4" opacity="0"/>
   </g>
 </svg>
