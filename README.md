@@ -5,8 +5,7 @@
   </picture>
 </p>
 
-Full Stack Software Engineer in Mexico City with 6 years shipping production web applications, from architecture through deployment.  
-Open to Full Stack roles, remote or anywhere.
+Full Stack Software Engineer in Mexico City with 6 years shipping production web applications, from architecture through deployment.
 
 <p align="center">
   <a href="https://diegozepeda.com"><img alt="diegozepeda.com" src="https://img.shields.io/badge/diegozepeda.com-111827?style=flat-square&logo=link&logoColor=white" /></a>
